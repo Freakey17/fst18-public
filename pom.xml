@@ -15,7 +15,7 @@
         <project.build.sourceDirectory>src</project.build.sourceDirectory>
         <project.build.testSourceDirectory>tests</project.build.testSourceDirectory>
         <!-- Maven -->
-        <maven.mainclass>de.unitrier.st.fst18.list.Main</maven.mainclass>
+        <maven.mainclass>de.unitrier.st.fst18.list.Freakey17.Main</maven.mainclass>
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.plugin.version>3.8.0</maven.compiler.plugin.version>

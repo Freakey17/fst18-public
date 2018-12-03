@@ -1,4 +1,4 @@
-package de.unitrier.st.fst18.list;
+package de.unitrier.st.fst18.list.Freakey17;
 
 /**
  * Doppelt verkettete Liste.

@@ -1,7 +1,5 @@
-import de.unitrier.st.fst18.list.List;
-import org.junit.Ignore;
+import de.unitrier.st.fst18.list.Freakey17.List;
 import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
