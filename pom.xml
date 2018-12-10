@@ -3,10 +3,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <name>Freakey17_fst18-public</name>
-    <groupId>de.unitrier.st.fst18-public.list.Freakey17</groupId>
+    <groupId>de.unitrier.st.fst18-public.Freakey17</groupId>
     <artifactId>list</artifactId>
     <version>0.1</version>
-    <url>https://github.com/Freakey17/fst18-public</url>
+    <url>https://github.com/sbaltes/fst18</url>
 
     <properties>
         <!-- Project -->
