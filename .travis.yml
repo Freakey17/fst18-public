@@ -2,7 +2,7 @@ language: java
 
 addons:
   sonarcloud:
-    organization: "Freakey17-github"
+    organization: "sbaltes-github"
     token: $SONAR_TOKEN
 
 script:
